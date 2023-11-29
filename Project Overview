@@ -1,0 +1,7 @@
+CSC 2053- Platform Based Computing
+Team Members: John Schofield, Jacob Bruck
+
+Project 3 Description- Premier League Android App
+Jacob will create the GitHub Repository.
+Our project idea is to create a Premier League Football Manager Simulator/Game. Users will pick a team, set lineups, and manage their team through the premier league season. Players will be susceptible to fatigue and injuries, so the user must manage their team to win as many games as possible. If their team has the most wins by the end of the season, they will win the league.
+The User Interface (UI) will utilize XML layout files to design the UI of your app. Functionally, we will use Java on the back end to manage player objects with assigned attributes. We’ll emulate our app on different Android devices by using Android Studio and importing the Android SDK. Jacob will focus on the XML while John will focus on the Java and we will fill in and help each other out where needed.
